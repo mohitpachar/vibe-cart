@@ -86,11 +86,11 @@ Fully modern UI animations and toast notifications
 
 
 Page	    Preview
-Home	    ![Login](frontend/public/screens/home.png)
-Login	    ![Login](frontend/public/screens/login.png)
-Cart	    ![Cart](frontend/public/screens/cart.png)
-Orders	  ![Orders](frontend/public/screens/orders.png)
-payment   ![Orders](frontend/public/screens/payment.png)
+Home	    (frontend/public/screens/home.png)
+Login	    (frontend/public/screens/login.png)
+Cart	    (frontend/public/screens/cart.png)
+Orders	  (frontend/public/screens/orders.png)
+payment   (frontend/public/screens/payment.png)
 
 
 
